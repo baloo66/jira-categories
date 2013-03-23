@@ -12,3 +12,11 @@ So we decided, to write them - and to share them ...
 We hope, that they are useful for other people. And - maybe - there are others contributing, removing bugs, provide new functionality and much more.
 
 Feel free to use, comment, contribute, modify and improve
+
+At the moment, there are the following Categories
+
+UsersCatagory
+
+IssuesCategory
+
+GroupsCategory
