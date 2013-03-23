@@ -1,13 +1,14 @@
-#summary Summary
+#summary Categories to easy life with JIRA
+#labels GroovyJIRA
 
-= Introduction =
+= Introduction = 
 
-Die Einführung.
+Working a while programming scripts in Groovy for JIRA tasks, we discovered, that Categories seem to be a good way, to hide boiler-plating code from the real functional scripts.
 
+Searching here and there, googling around - but we found no such Categories freely available.
 
-= Details =
+So we decided, to write them - and to share them ...
 
-Und hier der Inhalt
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+We hope, that they are useful for other people. And - maybe - there are others contributing, removing bugs, provide new functionality and much more.
+
+Feel free to use, comment, contribute, modify and improve
