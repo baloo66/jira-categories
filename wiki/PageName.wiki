@@ -1,4 +1,4 @@
-#summary Categories to easy life with JIRA
+#summary Categories to ease life with JIRA
 #labels GroovyJIRA
 
 = Introduction = 
