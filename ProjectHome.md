@@ -1,0 +1,1 @@
+to support development of jira groovy scripts, a couple of categories will be created

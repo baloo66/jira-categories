@@ -1,0 +1,19 @@
+# Introduction #
+
+Working a while programming scripts in Groovy for JIRA tasks, we discovered, that Categories seem to be a good way, to hide boiler-plating code from the real functional scripts.
+
+Searching here and there, googling around - but we found no such Categories freely available.
+
+So we decided, to write them - and to share them ...
+
+We hope, that they are useful for other people. And - maybe - there are others contributing, removing bugs, provide new functionality and much more.
+
+Feel free to use, comment, contribute, modify and improve
+
+At the moment, there are the following Categories
+
+UsersCatagory
+
+IssuesCategory
+
+GroupsCategory
